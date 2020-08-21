@@ -6,4 +6,4 @@ It's developed with HTML5, CSS and JS..
 i used anime.js package.
 
 link to site
-https://mikael-ajuna.github.io/websiteONE/
+https://code-maestro.github.io/iconlabs-site/
